@@ -5,13 +5,12 @@ ft_ping, 49h, 4200xp  => 52100xp
 UNIX/Kernel: 966/30_000
 malloc,		49h,	9450xp	==> 10416xp
 ft_linux,	49h,	4200xp	==> 14616xp
-nm,		14days,	9450xp	==> 24066xp
+nm,		    14days, 9450xp  ==> 24066xp
 ft_script,	7days,	4200xp	==> 28266xp
 ft_select	7days,	4200xp	==> 32466xp
 
 
 18.22 ==> 19.01
-
 
 + internship II ==> 20.22
 
